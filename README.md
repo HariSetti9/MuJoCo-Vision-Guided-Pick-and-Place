@@ -22,6 +22,8 @@ Open PowerShell and run these commands:
 ```powershell
 git clone https://github.com/HariSetti9/MuJoCo-Vision-Guided-Pick-and-Place.git
 cd MuJoCo-Vision-Guided-Pick-and-Place
+Expand-Archive -Path .\MuJoCo_Vision_Guided_Pick_and_Place_Project.zip -DestinationPath .\project-files
+cd .\project-files
 py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
 .\.venv\Scripts\python.exe -m pip install -r project\requirements.lock.txt
@@ -108,4 +110,5 @@ Open `presentation/MuJoCo_Vision_Guided_Pick_and_Place_Classroom.pptx` in PowerP
 ## Credits
 
 This project reuses the Panda model and workshop code described in `project/THIRD_PARTY.md`. Keep the included credit and license files with the project. The camera dashboard, box-finding steps, controls, and classroom integration were made for this demonstration.
+
 
