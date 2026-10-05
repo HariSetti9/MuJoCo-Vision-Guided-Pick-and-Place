@@ -1,0 +1,30 @@
+{
+  "detected_correctly": true,
+  "position_error_cm": 0.090323195097699,
+  "angle_error_deg": 0.0,
+  "truth_xyz": [
+    0.5,
+    0.03,
+    0.249892244583938
+  ],
+  "truth_yaw": 0.0,
+  "estimated_xyz": [
+    0.5004974447716002,
+    0.029253832842599834,
+    0.25
+  ],
+  "estimated_yaw": 0.0,
+  "image_centre": [
+    309.5,
+    224.5
+  ],
+  "shape_validity": 0.9974789915966387,
+  "pick_place_success": true,
+  "lift_m": 0.18377623421985984,
+  "final_xyz": [
+    0.47136959533738565,
+    -0.2435538028175285,
+    0.2618922445797841
+  ],
+  "released": true
+}

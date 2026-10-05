@@ -1,0 +1,17 @@
+{
+  "physics_tests": 10,
+  "successful_picks": 10,
+  "correct_detections": 10,
+  "mean_position_error_cm": 0.19957142389720442,
+  "max_position_error_cm": 0.3304135650410348,
+  "mean_angle_error_deg": 0.29595433242569696,
+  "max_angle_error_deg": 0.9637949144019728,
+  "correct_refusals": 3,
+  "noise_mae": 10.104609375,
+  "filtered_mae": 0.3236794704861111,
+  "noise_reduced": true,
+  "opening_test": true,
+  "closing_test": true,
+  "workspace_grid_valid": 27,
+  "workspace_grid_total": 27
+}

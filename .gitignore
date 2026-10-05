@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+MUJOCO_LOG.TXT
+project/outputs/live_demo.mp4
